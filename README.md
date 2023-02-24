@@ -5,36 +5,42 @@ Las soluciones de todos los días.
 Abrir en google colab
 ```
 
-## Día 1 - Lunes
+## Día 1 - Monday
 
-M4 - 01 - Python Notebook (Teoría) practicar las variables 
+M4 - 01 - Python Notebook (Theory) practice variables
 
-M4 - 02 - Python Notebook practicar los tipos de datos
+M4 - 02 - Python Notebook practice data types
 
-M4 - 03 - Condicionales  respasar el if,else, elif
+M4 - 03 - Condicionales go over the if,else,elif
 
-M4 - 04 - Excepciones (Teoría) los tipos de erores que ahi en las excepsiones
+M4 - 04 - Excepciones (Teoría) 
+the types of errors that are there in the exceptions
 
-M4 - 05 - Funciones - Soluciones como crear funciones y como usarlas 
+M4 - 05 - Funciones - Solutions how to create functions and how to use them
 
-## Día 2 - Martes 
+## Día 2 - Tuesday
 
-M4 - 06 - Bucles nos sirve para repetir instrucciones varias veces 
+M4 - 06 - Bucles 
+-It helps us to repeat instructions several times.
 
-M4 - ETL para eextraer transformar datos y guardarlos en una basede datos
+M4 - ETL to extract transform data and save it in a database
 
-## Día 3 - Miércoles
+## Día 3 - Wednesday
 
-M4 - 07 - Librerías la libreria pandas para manejar tablas
+M4 - 07 - Libraries the pandas library to handle tables
 
-SpaceX - 1 - Data Collection Api este es un ejercicio que realizamos paara practicar la descarga de datos e la empresa
+SpaceX - 1 - Data Collection Api 
+-This is an exercise that we carry out to practice downloading data from the company
 
-Solucion_Prophet - Predecir el valor de Bitcoin 
+Solucion_Prophet - Predict the value of Bitcoin
 
-## Día 4 - Jueves
+## Día 4 - Thursday
 
-SpaceX - 2 - EDA transformar los datos que nos hemos descargado en el #1
+SpaceX - 2 - EDA 
+-transform the data that we have downloaded into #1
 
-SpaceX - 3 -EDA Using SQL hacer queries de SQL desde phyton
+SpaceX - 3 -EDA Using SQL 
+-make SQL queries from python
 
-SpaceX - 4 - EDA with Data Visualization  pintamos graficas con los datos de los cohetes
+SpaceX - 4 - EDA with Data Visualization 
+-we draw graphs with the data from the rockets
